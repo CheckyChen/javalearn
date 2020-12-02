@@ -1,6 +1,7 @@
 package com.l08string;
 
 public class main {
+
     public static void main(String[] args) {
 
         String s = new String(new char[]{'h', 'e', 'l', 'l', 'o', ' ', 'j', 'a', 'v', 'a'});
